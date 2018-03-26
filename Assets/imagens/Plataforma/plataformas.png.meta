@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 8969770ec1e73644f9a37d44410f38e9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plataformas_0
+    21300002: plataformas_1
+    21300004: plataformas_2
+    21300006: plataformas_3
+    21300008: plataformas_4
+    21300010: plataformas_5
+    21300012: plataformas_6
+    21300014: plataformas_7
+    21300016: plataformas_8
+    21300018: plataformas_9
+    21300020: plataformas_10
+    21300022: plataformas_11
+    21300024: plataformas_12
+    21300026: plataformas_13
+    21300028: plataformas_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: plataformas_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 712
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 711
+        width: 163
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 712
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 546
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 546
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 363
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 362
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 362
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 161
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 164
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 165
+        width: 160
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plataformas_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

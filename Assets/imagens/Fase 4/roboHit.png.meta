@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: db4882a543f43cc4f9c502001b614f07
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roboHit_0
+    21300002: roboHit_1
+    21300004: roboHit_2
+    21300006: roboHit_3
+    21300008: roboHit_4
+    21300010: roboHit_5
+    21300012: roboHit_6
+    21300014: roboHit_7
+    21300016: roboHit_8
+    21300018: roboHit_9
+    21300020: roboHit_10
+    21300022: roboHit_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roboHit_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2500
+        width: 839
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_1
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2478
+        width: 897
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_2
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 2468
+        width: 852
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1665
+        width: 884
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1652
+        width: 887
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_5
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1645
+        width: 881
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 826
+        width: 852
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_7
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 826
+        width: 798
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_8
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 826
+        width: 897
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 16
+        width: 887
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_10
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 29
+        width: 842
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboHit_11
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 42
+        width: 769
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

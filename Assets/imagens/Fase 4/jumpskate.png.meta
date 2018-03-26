@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 085d8dd5ba8a8bc47a2406ce5301b29e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumpskate_0
+    21300002: jumpskate_1
+    21300004: jumpskate_2
+    21300006: jumpskate_3
+    21300008: jumpskate_7
+    21300010: jumpskate_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jumpskate_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 921
+        width: 423
+        height: 638
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpskate_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 922
+        width: 428
+        height: 732
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpskate_2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 922
+        width: 421
+        height: 826
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpskate_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 925
+        width: 420
+        height: 918
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpskate_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 52
+        width: 422
+        height: 778
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jumpskate_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 49
+        width: 423
+        height: 688
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

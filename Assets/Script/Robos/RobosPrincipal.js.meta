@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f5fe7afd9b3788643b6c0285f2410bd3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tabelaPeriodica: {instanceID: 0}
+  - roboAzul: {fileID: 21300002, guid: 337014c5583cc514fbb57244d57e368e, type: 3}
+  - mostraTexto: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: eadf3b9280ab05e4eaee359560634708
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skate_0
+    21300002: skate_1
+    21300004: skate_2
+    21300006: skate_3
+    21300008: skate_4
+    21300010: skate_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: skate_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 664
+        width: 432
+        height: 665
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skate_1
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 664
+        width: 430
+        height: 665
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skate_2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 664
+        width: 426
+        height: 665
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skate_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 425
+        height: 646
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skate_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 424
+        height: 638
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: skate_5
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 430
+        height: 655
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

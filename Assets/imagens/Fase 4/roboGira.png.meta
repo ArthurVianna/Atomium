@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 834ecbadf67425949a8452c975c33efa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roboGira_0
+    21300002: roboGira_2
+    21300004: roboGira_1
+    21300006: roboGira_3
+    21300008: roboGira_4
+    21300010: roboGira_5
+    21300012: roboGira_6
+    21300014: roboGira_7
+    21300016: roboGira_8
+    21300018: roboGira_9
+    21300020: roboGira_10
+    21300022: roboGira_11
+    21300024: roboGira_12
+    21300026: roboGira_13
+    21300028: roboGira_14
+    21300030: roboGira_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roboGira_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3955
+        width: 868
+        height: 780
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2973
+        width: 1152
+        height: 787
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1958
+        width: 1421
+        height: 771
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1033
+        width: 1697
+        height: 706
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_5
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 3996
+        width: 1835
+        height: 698
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_6
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2989
+        width: 2135
+        height: 698
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_7
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2064
+        width: 1818
+        height: 682
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_8
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1041
+        width: 1656
+        height: 803
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_9
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 4117
+        width: 1429
+        height: 699
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_10
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 3135
+        width: 1323
+        height: 796
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_11
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 2072
+        width: 1274
+        height: 933
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_12
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1041
+        width: 1210
+        height: 901
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboGira_13
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 10
+        width: 1161
+        height: 820
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

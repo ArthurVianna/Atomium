@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Puzzles\Puzzle2\Control1.js">
+    <Files>
+      <File FileName="Assets\Script\Puzzles\Puzzle 1\question3.js" Line="1" Column="1" />
+      <File FileName="Assets\imagens\Curved\fade.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\escada.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\PersBus.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Personagem\subir.js" Line="1" Column="1" />
+      <File FileName="Assets\imagens\Curved\fade2.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\fase4.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Scripts\barEnter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Puzzles\Puzzle2\Control1.js" Line="53" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

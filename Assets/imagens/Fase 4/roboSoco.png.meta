@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 83c8ec607d46bb4469fb723408b67940
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: roboSoco_0
+    21300002: roboSoco_1
+    21300004: roboSoco_2
+    21300006: roboSoco_3
+    21300008: roboSoco_4
+    21300010: roboSoco_5
+    21300012: roboSoco_6
+    21300014: roboSoco_7
+    21300016: roboSoco_8
+    21300018: roboSoco_9
+    21300020: roboSoco_10
+    21300022: roboSoco_11
+    21300024: roboSoco_12
+    21300026: roboSoco_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: roboSoco_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6384
+        width: 781
+        height: 714
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_1
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 6374
+        width: 731
+        height: 708
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 86, w: 0}
+    - name: roboSoco_2
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 6365
+        width: 757
+        height: 743
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_3
+      rect:
+        serializedVersion: 2
+        x: 4463
+        y: 6365
+        width: 751
+        height: 752
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_4
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 3159
+        width: 786
+        height: 708
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_5
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 3163
+        width: 926
+        height: 691
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1543
+        width: 874
+        height: 777
+      alignment: 9
+      pivot: {x: .394305766, y: .500000179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1578
+        width: 1127
+        height: 751
+      alignment: 9
+      pivot: {x: .329907537, y: .468178511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_8
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1604
+        width: 1372
+        height: 725
+      alignment: 9
+      pivot: {x: .329282522, y: .443977982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_9
+      rect:
+        serializedVersion: 2
+        x: 4402
+        y: 1604
+        width: 1502
+        height: 760
+      alignment: 9
+      pivot: {x: .303246051, y: .423211038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_11
+      rect:
+        serializedVersion: 2
+        x: 5861
+        y: 3142
+        width: 858
+        height: 1634
+      alignment: 9
+      pivot: {x: .481185794, y: .219767496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_12
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 1589
+        width: 845
+        height: 1250
+      alignment: 9
+      pivot: {x: .469777405, y: .285543352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: roboSoco_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 811
+        height: 1001
+      alignment: 9
+      pivot: {x: .486046046, y: .329330981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
